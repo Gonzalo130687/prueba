@@ -1,0 +1,15 @@
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\bin\Debug\net8.0\CasosDeUsoCompartida.deps.json
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\bin\Debug\net8.0\CasosDeUsoCompartida.dll
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\bin\Debug\net8.0\CasosDeUsoCompartida.pdb
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\bin\Debug\net8.0\logicaDeNegocio.dll
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\bin\Debug\net8.0\logicaDeNegocio.pdb
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\obj\Debug\net8.0\CasosDeUsoCompartida.csproj.AssemblyReference.cache
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\obj\Debug\net8.0\CasosDeUsoCompartida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\obj\Debug\net8.0\CasosDeUsoCompartida.AssemblyInfoInputs.cache
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\obj\Debug\net8.0\CasosDeUsoCompartida.AssemblyInfo.cs
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\obj\Debug\net8.0\CasosDeUsoCompartida.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\obj\Debug\net8.0\CasosDeU.BC6A93E9.Up2Date
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\obj\Debug\net8.0\CasosDeUsoCompartida.dll
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\obj\Debug\net8.0\refint\CasosDeUsoCompartida.dll
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\obj\Debug\net8.0\CasosDeUsoCompartida.pdb
+C:\Users\Gonzalo Castro\source\repos\miProyecto\CasosDeUsoCompartida\obj\Debug\net8.0\ref\CasosDeUsoCompartida.dll

@@ -1,0 +1,15 @@
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.deps.json
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\bin\Debug\net8.0\logicaDeNegocio.dll
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\bin\Debug\net8.0\logicaDeNegocio.pdb
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAc.5A0EF2D8.Up2Date
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\Gonzalo Castro\source\repos\miProyecto\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll

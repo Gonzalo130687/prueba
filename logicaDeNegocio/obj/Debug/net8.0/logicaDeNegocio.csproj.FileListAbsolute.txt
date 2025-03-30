@@ -1,0 +1,11 @@
+C:\Users\Gonzalo Castro\source\repos\miProyecto\logicaDeNegocio\bin\Debug\net8.0\logicaDeNegocio.deps.json
+C:\Users\Gonzalo Castro\source\repos\miProyecto\logicaDeNegocio\bin\Debug\net8.0\logicaDeNegocio.dll
+C:\Users\Gonzalo Castro\source\repos\miProyecto\logicaDeNegocio\bin\Debug\net8.0\logicaDeNegocio.pdb
+C:\Users\Gonzalo Castro\source\repos\miProyecto\logicaDeNegocio\obj\Debug\net8.0\logicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo Castro\source\repos\miProyecto\logicaDeNegocio\obj\Debug\net8.0\logicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Gonzalo Castro\source\repos\miProyecto\logicaDeNegocio\obj\Debug\net8.0\logicaDeNegocio.AssemblyInfo.cs
+C:\Users\Gonzalo Castro\source\repos\miProyecto\logicaDeNegocio\obj\Debug\net8.0\logicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo Castro\source\repos\miProyecto\logicaDeNegocio\obj\Debug\net8.0\logicaDeNegocio.dll
+C:\Users\Gonzalo Castro\source\repos\miProyecto\logicaDeNegocio\obj\Debug\net8.0\refint\logicaDeNegocio.dll
+C:\Users\Gonzalo Castro\source\repos\miProyecto\logicaDeNegocio\obj\Debug\net8.0\logicaDeNegocio.pdb
+C:\Users\Gonzalo Castro\source\repos\miProyecto\logicaDeNegocio\obj\Debug\net8.0\ref\logicaDeNegocio.dll

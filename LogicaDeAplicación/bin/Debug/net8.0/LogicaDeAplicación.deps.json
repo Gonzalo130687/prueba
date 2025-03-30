@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LogicaDeAplicación/1.0.0": {
+        "dependencies": {
+          "CasosDeUsoCompartida": "1.0.0",
+          "LogicaAccesoDatos": "1.0.0",
+          "logicaDeNegocio": "1.0.0"
+        },
+        "runtime": {
+          "LogicaDeAplicación.dll": {}
+        }
+      },
+      "CasosDeUsoCompartida/1.0.0": {
+        "dependencies": {
+          "logicaDeNegocio": "1.0.0"
+        },
+        "runtime": {
+          "CasosDeUsoCompartida.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LogicaAccesoDatos/1.0.0": {
+        "dependencies": {
+          "logicaDeNegocio": "1.0.0"
+        },
+        "runtime": {
+          "LogicaAccesoDatos.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "logicaDeNegocio/1.0.0": {
+        "runtime": {
+          "logicaDeNegocio.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogicaDeAplicación/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CasosDeUsoCompartida/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaAccesoDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "logicaDeNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
